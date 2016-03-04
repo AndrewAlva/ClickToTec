@@ -1,10 +1,3 @@
-// START!
-	setTimeout(function(){
-		var inputMails = document.getElementById("agencyMails");
-		inputMails.focus();
-	},500);
-// END START
-
 jQuery(document).ready(function($) {
 
 	

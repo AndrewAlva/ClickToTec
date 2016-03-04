@@ -1,0 +1,2 @@
+# ClickToTec
+Another funny approach
